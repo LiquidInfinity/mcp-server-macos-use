@@ -85,12 +85,3 @@ Once built, you need to tell your client application where to find the server ex
 
 *Replace `/path/to/your/project/` with the actual absolute path to your `mcp-server-macos-use` directory.*
 
-## Help
-
-Reach out to matt@mediar.ai
-Discord: m13v_
-
-
-## Plans
-
-Happy to tailor the server for your needs, feel free to open an issue or reach out
